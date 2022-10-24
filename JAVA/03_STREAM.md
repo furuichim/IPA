@@ -1,13 +1,3 @@
-<style>
-strong {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-strong * {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-</style>
 # Stream
 
 [java.util.stream.Stream](https://docs.oracle.com/javase/jp/11/docs/api/java.base/java/util/stream/Stream.html)

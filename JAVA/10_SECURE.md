@@ -1,13 +1,3 @@
-<style>
-strong {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-strong * {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-</style>
 # SECUREコーディング
 
 ## 入力値検査とデータの無害化(IDS) 

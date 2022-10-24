@@ -1,14 +1,3 @@
-<style>
-strong {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-strong * {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-</style>
-    
 # Functional Interface
 
 [`java.util.function`](https://docs.oracle.com/javase/jp/11/docs/api/java.base/java/util/function/package-summary.html)パッケージで提供される、インスタンスメソッドが一つのインタフェース

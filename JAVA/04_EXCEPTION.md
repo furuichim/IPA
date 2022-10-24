@@ -1,13 +1,3 @@
-<style>
-strong {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-strong * {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-</style>
 # Exception
 
 [java.lang.Throwable](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/Throwable.html)

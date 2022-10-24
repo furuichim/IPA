@@ -1,13 +1,3 @@
-<style>
-strong {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-strong * {
-    background: linear-gradient(transparent 0%, #6f6 0%) !important;
-}
-
-</style>
 # MODULEシステム
 
 ## 利用可能なモジュール
